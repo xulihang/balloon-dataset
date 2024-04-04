@@ -1,0 +1,2271 @@
+{
+    "settings": {
+        "otsu_enabled": true,
+        "resize_before_balloon": true,
+        "defaultInpainter": 0,
+        "checkColorForSeparationInference": false,
+        "correct_input": true,
+        "threshold": "200",
+        "use_puretext": false,
+        "overlapped_width_percent": 50,
+        "default_text_box_width": "100",
+        "autocorrect": [],
+        "precisionMode": 0,
+        "balloon_fixed_ratio": "1x1",
+        "output_format": 0,
+        "sourceLang": "zh",
+        "maskRadius": 0,
+        "checkParagraphPositionForMerging": false,
+        "doNotCheckSeparationWithText": true,
+        "maxFontSize": 100,
+        "position_restraint": false,
+        "richtext": false,
+        "checkPunctuationForMerging": false,
+        "readSubFolder": true,
+        "char_center_align": "[\\!\\?！？⁉‼…—~⋮0-9a-zA-Z]",
+        "showTTSButton": true,
+        "char_rotate": "[…—~]",
+        "byTextArea": false,
+        "invert": false,
+        "resize_before_OCR": true,
+        "inferSeparation": true,
+        "output_with_bitmapcreator": false,
+        "balloon_divide_ratio": 4,
+        "generateMaskDuringSceneTextDetection": true,
+        "minimumHSpan": "10",
+        "flipOutputImage": false,
+        "sortCriteriaForText": 0,
+        "resize_before_balloon_height": 1024,
+        "expand": "6",
+        "useBatchSettings": false,
+        "output_folder": "out",
+        "resize_before_OCR_width": 2500,
+        "expand_for_balloon": true,
+        "use_fixed_ratio_for_balloon": false,
+        "defaultMaskGen": 0,
+        "inpaintRadius": 3,
+        "offsetThresholdBetweenParagraphLines": 20,
+        "blur": false,
+        "timeout": "60",
+        "fontStyles": [],
+        "right2left": false,
+        "autoFontSize": true,
+        "endingPunctuations": "[\\.,!?。！？…\"]",
+        "invertBasedOnColor": false,
+        "firstchar_to_moveup": "",
+        "batchSettings": {
+            "ocrInterval": 200,
+            "engine": "tencent",
+            "mergeOperation": "2",
+            "detectionMethod": "0",
+            "interval": 1000,
+            "type": "MT"
+        },
+        "imgQuality": 90,
+        "expanding_pix": 5,
+        "autoThreshold": true,
+        "targetLang": "en",
+        "overlapped_height_percent": 70,
+        "textLocalizationProcess": [
+            "去除外部区域",
+            "横向合并",
+            "纵向合并",
+            "过滤过小项",
+            "去除内部区域",
+            "拓展区域"
+        ],
+        "minimumHeight": "3",
+        "minFontSize": 15,
+        "furiganaStipperMethod": 0,
+        "auto_params": true,
+        "cjk_vertical_text_engine": true,
+        "default_text_box_height": "50",
+        "dilation": 2,
+        "autocorrect_enabled": false,
+        "char_right_align": "[\\.,。，、]",
+        "OCR_divide_ratio": 4,
+        "resize": true,
+        "maximumHeight": "100",
+        "sortBasedOnPanel": true,
+        "char_zerowordspace": "[—]",
+        "convert_vertical_to_horizontal_layout": false,
+        "sortCriteria": 0,
+        "char_replace": "{\n  \"（\":\"︵\",\n  \"）\":\"︶\",\n  \"『\":\"﹃\",\n  \"』\":\"﹄\"\n}",
+        "minimumVSpan": "10"
+    },
+    "images": {
+        "4d8b0b03ly1g7grnsbywhj20i23hokjl.jpg": {
+            "boxes": [
+                {
+                    "probability": 0.9414608478546143,
+                    "geometry": {
+                        "X": 25,
+                        "width": 118,
+                        "Y": 3986,
+                        "height": 33
+                    },
+                    "text": ""
+                },
+                {
+                    "probability": 0.9683035016059875,
+                    "geometry": {
+                        "X": 35,
+                        "width": 240,
+                        "Y": 2533,
+                        "height": 46
+                    },
+                    "text": "",
+                    "target": ""
+                },
+                {
+                    "probability": 0.9547449946403503,
+                    "geometry": {
+                        "X": 61,
+                        "width": 71,
+                        "Y": 3522,
+                        "height": 39
+                    },
+                    "text": ""
+                },
+                {
+                    "probability": 0.9794555902481079,
+                    "geometry": {
+                        "X": 73,
+                        "width": 105,
+                        "Y": 3599,
+                        "height": 36
+                    },
+                    "text": ""
+                },
+                {
+                    "probability": 0.992730438709259,
+                    "geometry": {
+                        "X": 78,
+                        "width": 114,
+                        "Y": 3069,
+                        "height": 38
+                    },
+                    "text": ""
+                },
+                {
+                    "probability": 0.563804030418396,
+                    "geometry": {
+                        "X": 89,
+                        "width": 113,
+                        "Y": 1367,
+                        "height": 78
+                    },
+                    "text": "",
+                    "target": ""
+                },
+                {
+                    "probability": 0.7306724786758423,
+                    "geometry": {
+                        "X": 129,
+                        "width": 33,
+                        "Y": 102,
+                        "height": 28
+                    },
+                    "text": ""
+                },
+                {
+                    "probability": 0.9506579637527466,
+                    "geometry": {
+                        "X": 231,
+                        "width": 69,
+                        "Y": 3979,
+                        "height": 33
+                    },
+                    "text": ""
+                },
+                {
+                    "probability": 0.6829524040222168,
+                    "geometry": {
+                        "X": 250,
+                        "width": 48,
+                        "Y": 612,
+                        "height": 37
+                    },
+                    "text": ""
+                },
+                {
+                    "probability": 0.714827835559845,
+                    "geometry": {
+                        "X": 303,
+                        "width": 34,
+                        "Y": 208,
+                        "height": 27
+                    },
+                    "text": ""
+                },
+                {
+                    "probability": 0.9327430725097656,
+                    "geometry": {
+                        "X": 307,
+                        "width": 57,
+                        "Y": 4004,
+                        "height": 33
+                    },
+                    "text": ""
+                },
+                {
+                    "probability": 0.8739612698554993,
+                    "geometry": {
+                        "X": 386,
+                        "width": 33,
+                        "Y": 426,
+                        "height": 27
+                    },
+                    "text": ""
+                },
+                {
+                    "probability": 0.9212786555290222,
+                    "geometry": {
+                        "X": 398,
+                        "width": 34,
+                        "Y": 272,
+                        "height": 28
+                    },
+                    "text": ""
+                },
+                {
+                    "probability": 0.9392970204353333,
+                    "geometry": {
+                        "X": 408,
+                        "width": 110,
+                        "Y": 3095,
+                        "height": 36
+                    },
+                    "text": ""
+                },
+                {
+                    "probability": 0.7911092638969421,
+                    "geometry": {
+                        "X": 478,
+                        "width": 139,
+                        "Y": 4329,
+                        "height": 107
+                    },
+                    "text": "",
+                    "target": ""
+                },
+                {
+                    "probability": 0.9913729429244995,
+                    "geometry": {
+                        "X": 442,
+                        "width": 91,
+                        "Y": 2897,
+                        "height": 33
+                    },
+                    "text": ""
+                },
+                {
+                    "probability": 0.9495130777359009,
+                    "geometry": {
+                        "X": 448,
+                        "width": 159,
+                        "Y": 3237,
+                        "height": 35
+                    },
+                    "text": ""
+                },
+                {
+                    "probability": 0.9605168104171753,
+                    "geometry": {
+                        "X": 457,
+                        "width": 33,
+                        "Y": 2552,
+                        "height": 32
+                    },
+                    "text": ""
+                },
+                {
+                    "probability": 0.9230585098266602,
+                    "geometry": {
+                        "X": 467,
+                        "width": 105,
+                        "Y": 3840,
+                        "height": 63
+                    },
+                    "text": ""
+                },
+                {
+                    "probability": 0.9791035652160645,
+                    "geometry": {
+                        "X": 505,
+                        "width": 108,
+                        "Y": 3651,
+                        "height": 38
+                    },
+                    "text": ""
+                },
+                {
+                    "probability": 0.7034372091293335,
+                    "geometry": {
+                        "X": 505,
+                        "width": 127,
+                        "Y": 3731,
+                        "height": 42
+                    },
+                    "text": "",
+                    "target": ""
+                },
+                {
+                    "probability": 0.9508321285247803,
+                    "geometry": {
+                        "X": 519,
+                        "width": 80,
+                        "Y": 2638,
+                        "height": 37
+                    },
+                    "text": ""
+                },
+                {
+                    "probability": 0.9935249090194702,
+                    "geometry": {
+                        "X": 520,
+                        "width": 69,
+                        "Y": 3517,
+                        "height": 33
+                    },
+                    "text": ""
+                }
+            ]
+        },
+        "001q2GAPly1hjny77wp33j60i236f4qp02.jpg": {
+            "boxes": [
+                {
+                    "targetGeometry": {
+                        "X": 49,
+                        "width": 120,
+                        "Y": 69,
+                        "height": 55
+                    },
+                    "probability": 0.9766977429389954,
+                    "geometry": {
+                        "X": 44,
+                        "width": 130,
+                        "Y": 64,
+                        "height": 65
+                    },
+                    "text": ""
+                },
+                {
+                    "targetGeometry": {
+                        "X": 470,
+                        "width": 129,
+                        "Y": 75,
+                        "height": 55
+                    },
+                    "probability": 0.9972730278968811,
+                    "geometry": {
+                        "X": 465,
+                        "width": 139,
+                        "Y": 70,
+                        "height": 65
+                    },
+                    "text": ""
+                },
+                {
+                    "targetGeometry": {
+                        "X": 347,
+                        "width": 105,
+                        "Y": 602,
+                        "height": 55
+                    },
+                    "probability": 0.9943821430206299,
+                    "geometry": {
+                        "X": 342,
+                        "width": 115,
+                        "Y": 597,
+                        "height": 65
+                    },
+                    "text": ""
+                },
+                {
+                    "targetGeometry": {
+                        "X": 16,
+                        "width": 129,
+                        "Y": 1031,
+                        "height": 34
+                    },
+                    "probability": 0.5871292948722839,
+                    "geometry": {
+                        "X": 11,
+                        "width": 139,
+                        "Y": 1026,
+                        "height": 44
+                    },
+                    "text": ""
+                },
+                {
+                    "targetGeometry": {
+                        "X": 282,
+                        "width": 119,
+                        "Y": 1093,
+                        "height": 55
+                    },
+                    "probability": 0.9905371069908142,
+                    "geometry": {
+                        "X": 277,
+                        "width": 129,
+                        "Y": 1088,
+                        "height": 65
+                    },
+                    "text": ""
+                },
+                {
+                    "targetGeometry": {
+                        "X": 449,
+                        "width": 71,
+                        "Y": 1207,
+                        "height": 55
+                    },
+                    "probability": 0.9749903082847595,
+                    "geometry": {
+                        "X": 444,
+                        "width": 81,
+                        "Y": 1202,
+                        "height": 65
+                    },
+                    "text": ""
+                },
+                {
+                    "targetGeometry": {
+                        "X": 18,
+                        "width": 130,
+                        "Y": 1531,
+                        "height": 33
+                    },
+                    "probability": 0.5613511204719543,
+                    "geometry": {
+                        "X": 13,
+                        "width": 140,
+                        "Y": 1526,
+                        "height": 43
+                    },
+                    "text": ""
+                },
+                {
+                    "targetGeometry": {
+                        "X": 321,
+                        "width": 95,
+                        "Y": 1589,
+                        "height": 55
+                    },
+                    "probability": 0.9949852228164673,
+                    "geometry": {
+                        "X": 316,
+                        "width": 105,
+                        "Y": 1584,
+                        "height": 65
+                    },
+                    "text": ""
+                },
+                {
+                    "probability": 0.8037614822387695,
+                    "geometry": {
+                        "X": 453,
+                        "width": 112,
+                        "Y": 1695,
+                        "height": 70
+                    },
+                    "text": "",
+                    "target": ""
+                },
+                {
+                    "targetGeometry": {
+                        "X": 351,
+                        "width": 55,
+                        "Y": 2134,
+                        "height": 23
+                    },
+                    "probability": 0.9009198546409607,
+                    "geometry": {
+                        "X": 346,
+                        "width": 65,
+                        "Y": 2129,
+                        "height": 33
+                    },
+                    "text": ""
+                },
+                {
+                    "targetGeometry": {
+                        "X": 408,
+                        "width": 120,
+                        "Y": 2188,
+                        "height": 55
+                    },
+                    "probability": 0.9662961363792419,
+                    "geometry": {
+                        "X": 403,
+                        "width": 130,
+                        "Y": 2183,
+                        "height": 65
+                    },
+                    "text": ""
+                },
+                {
+                    "targetGeometry": {
+                        "X": 19,
+                        "width": 189,
+                        "Y": 2551,
+                        "height": 45
+                    },
+                    "probability": 0.6481285095214844,
+                    "geometry": {
+                        "X": 14,
+                        "width": 199,
+                        "Y": 2546,
+                        "height": 55
+                    },
+                    "text": ""
+                },
+                {
+                    "targetGeometry": {
+                        "X": 16,
+                        "width": 124,
+                        "Y": 3053,
+                        "height": 42
+                    },
+                    "probability": 0.9835598468780518,
+                    "geometry": {
+                        "X": 11,
+                        "width": 134,
+                        "Y": 3048,
+                        "height": 52
+                    },
+                    "text": ""
+                },
+                {
+                    "targetGeometry": {
+                        "X": 43,
+                        "width": 96,
+                        "Y": 3594,
+                        "height": 56
+                    },
+                    "probability": 0.9934733510017395,
+                    "geometry": {
+                        "X": 38,
+                        "width": 106,
+                        "Y": 3589,
+                        "height": 66
+                    },
+                    "text": ""
+                },
+                {
+                    "targetGeometry": {
+                        "X": 391,
+                        "width": 80,
+                        "Y": 3627,
+                        "height": 23
+                    },
+                    "probability": 0.9835916757583618,
+                    "geometry": {
+                        "X": 386,
+                        "width": 90,
+                        "Y": 3622,
+                        "height": 33
+                    },
+                    "text": ""
+                },
+                {
+                    "targetGeometry": {
+                        "X": 469,
+                        "width": 81,
+                        "Y": 3938,
+                        "height": 46
+                    },
+                    "probability": 0.9762722849845886,
+                    "geometry": {
+                        "X": 464,
+                        "width": 91,
+                        "Y": 3933,
+                        "height": 56
+                    },
+                    "text": ""
+                },
+                {
+                    "geometry": {
+                        "X": 434,
+                        "width": 55,
+                        "Y": 1663,
+                        "height": 33
+                    },
+                    "text": "",
+                    "target": ""
+                }
+            ]
+        },
+        "4d8b0b03ly1g7grlq9cnaj20i21wx1g7.jpg": {
+            "boxes": [
+                {
+                    "targetGeometry": {
+                        "X": 76,
+                        "width": 38,
+                        "Y": 233,
+                        "height": 36
+                    },
+                    "probability": 0.9955818057060242,
+                    "geometry": {
+                        "X": 71,
+                        "width": 48,
+                        "Y": 228,
+                        "height": 46
+                    },
+                    "text": "",
+                    "target": ""
+                },
+                {
+                    "targetGeometry": {
+                        "X": 206,
+                        "width": 32,
+                        "Y": 350,
+                        "height": 30
+                    },
+                    "probability": 0.9069205522537231,
+                    "geometry": {
+                        "X": 201,
+                        "width": 42,
+                        "Y": 345,
+                        "height": 40
+                    },
+                    "text": ""
+                },
+                {
+                    "targetGeometry": {
+                        "X": 44,
+                        "width": 108,
+                        "Y": 535,
+                        "height": 56
+                    },
+                    "probability": 0.9766145348548889,
+                    "geometry": {
+                        "X": 39,
+                        "width": 118,
+                        "Y": 530,
+                        "height": 66
+                    },
+                    "text": ""
+                },
+                {
+                    "probability": 0.8105201721191406,
+                    "geometry": {
+                        "X": 542,
+                        "width": 71,
+                        "Y": 529,
+                        "height": 41
+                    },
+                    "text": "",
+                    "target": ""
+                },
+                {
+                    "targetGeometry": {
+                        "X": 161,
+                        "width": 33,
+                        "Y": 577,
+                        "height": 21
+                    },
+                    "probability": 0.8378959894180298,
+                    "geometry": {
+                        "X": 156,
+                        "width": 43,
+                        "Y": 572,
+                        "height": 31
+                    },
+                    "text": ""
+                },
+                {
+                    "targetGeometry": {
+                        "X": 65,
+                        "width": 137,
+                        "Y": 845,
+                        "height": 84
+                    },
+                    "probability": 0.939881443977356,
+                    "geometry": {
+                        "X": 60,
+                        "width": 147,
+                        "Y": 840,
+                        "height": 94
+                    },
+                    "text": ""
+                },
+                {
+                    "targetGeometry": {
+                        "X": 238,
+                        "width": 58,
+                        "Y": 925,
+                        "height": 23
+                    },
+                    "probability": 0.9901893734931946,
+                    "geometry": {
+                        "X": 233,
+                        "width": 68,
+                        "Y": 920,
+                        "height": 33
+                    },
+                    "text": ""
+                },
+                {
+                    "targetGeometry": {
+                        "X": 37,
+                        "width": 137,
+                        "Y": 1034,
+                        "height": 56
+                    },
+                    "probability": 0.9886330962181091,
+                    "geometry": {
+                        "X": 32,
+                        "width": 147,
+                        "Y": 1029,
+                        "height": 66
+                    },
+                    "text": ""
+                },
+                {
+                    "targetGeometry": {
+                        "X": 461,
+                        "width": 153,
+                        "Y": 1036,
+                        "height": 56
+                    },
+                    "probability": 0.980089545249939,
+                    "geometry": {
+                        "X": 456,
+                        "width": 163,
+                        "Y": 1031,
+                        "height": 66
+                    },
+                    "text": ""
+                },
+                {
+                    "targetGeometry": {
+                        "X": 517,
+                        "width": 90,
+                        "Y": 1153,
+                        "height": 22
+                    },
+                    "probability": 0.9245434999465942,
+                    "geometry": {
+                        "X": 512,
+                        "width": 100,
+                        "Y": 1148,
+                        "height": 32
+                    },
+                    "text": ""
+                },
+                {
+                    "targetGeometry": {
+                        "X": 470,
+                        "width": 109,
+                        "Y": 1330,
+                        "height": 56
+                    },
+                    "probability": 0.9954546689987183,
+                    "geometry": {
+                        "X": 465,
+                        "width": 119,
+                        "Y": 1325,
+                        "height": 66
+                    },
+                    "text": ""
+                },
+                {
+                    "targetGeometry": {
+                        "X": 488,
+                        "width": 135,
+                        "Y": 1895,
+                        "height": 22
+                    },
+                    "probability": 0.8673978447914124,
+                    "geometry": {
+                        "X": 483,
+                        "width": 145,
+                        "Y": 1890,
+                        "height": 32
+                    },
+                    "text": ""
+                },
+                {
+                    "targetGeometry": {
+                        "X": 462,
+                        "width": 31,
+                        "Y": 2022,
+                        "height": 24
+                    },
+                    "probability": 0.738987147808075,
+                    "geometry": {
+                        "X": 457,
+                        "width": 41,
+                        "Y": 2017,
+                        "height": 34
+                    },
+                    "text": ""
+                },
+                {
+                    "geometry": {
+                        "X": 559,
+                        "width": 58,
+                        "Y": 574,
+                        "height": 32
+                    },
+                    "text": "",
+                    "target": ""
+                },
+                {
+                    "geometry": {
+                        "X": 546,
+                        "width": 48,
+                        "Y": 1555,
+                        "height": 113
+                    },
+                    "text": "",
+                    "target": ""
+                }
+            ]
+        },
+        "4d8b0b03ly1g6j430ai1nj20i24izx6p.jpg": {
+            "boxes": [
+                {
+                    "targetGeometry": {
+                        "X": 86,
+                        "width": 95,
+                        "Y": 103,
+                        "height": 23
+                    },
+                    "probability": 0.8473753929138184,
+                    "geometry": {
+                        "X": 81,
+                        "width": 105,
+                        "Y": 98,
+                        "height": 33
+                    },
+                    "text": ""
+                },
+                {
+                    "targetGeometry": {
+                        "X": 533,
+                        "width": 47,
+                        "Y": 564,
+                        "height": 23
+                    },
+                    "probability": 0.9763979911804199,
+                    "geometry": {
+                        "X": 528,
+                        "width": 57,
+                        "Y": 559,
+                        "height": 33
+                    },
+                    "text": ""
+                },
+                {
+                    "targetGeometry": {
+                        "X": 584,
+                        "width": 36,
+                        "Y": 587,
+                        "height": 22
+                    },
+                    "probability": 0.9834516048431396,
+                    "geometry": {
+                        "X": 579,
+                        "width": 46,
+                        "Y": 582,
+                        "height": 32
+                    },
+                    "text": ""
+                },
+                {
+                    "targetGeometry": {
+                        "X": 140,
+                        "width": 22,
+                        "Y": 597,
+                        "height": 22
+                    },
+                    "probability": 0.9340599179267883,
+                    "geometry": {
+                        "X": 135,
+                        "width": 32,
+                        "Y": 592,
+                        "height": 32
+                    },
+                    "text": ""
+                },
+                {
+                    "targetGeometry": {
+                        "X": 183,
+                        "width": 36,
+                        "Y": 612,
+                        "height": 22
+                    },
+                    "probability": 0.9470151662826538,
+                    "geometry": {
+                        "X": 178,
+                        "width": 46,
+                        "Y": 607,
+                        "height": 32
+                    },
+                    "text": ""
+                },
+                {
+                    "targetGeometry": {
+                        "X": 42,
+                        "width": 94,
+                        "Y": 1537,
+                        "height": 26
+                    },
+                    "probability": 0.9958537817001343,
+                    "geometry": {
+                        "X": 37,
+                        "width": 104,
+                        "Y": 1532,
+                        "height": 36
+                    },
+                    "text": ""
+                },
+                {
+                    "targetGeometry": {
+                        "X": 70,
+                        "width": 119,
+                        "Y": 1737,
+                        "height": 22
+                    },
+                    "probability": 0.7349262833595276,
+                    "geometry": {
+                        "X": 65,
+                        "width": 129,
+                        "Y": 1732,
+                        "height": 32
+                    },
+                    "text": ""
+                },
+                {
+                    "targetGeometry": {
+                        "X": 439,
+                        "width": 139,
+                        "Y": 2517,
+                        "height": 27
+                    },
+                    "probability": 0.9474380612373352,
+                    "geometry": {
+                        "X": 434,
+                        "width": 149,
+                        "Y": 2512,
+                        "height": 37
+                    },
+                    "text": ""
+                },
+                {
+                    "targetGeometry": {
+                        "X": 468,
+                        "width": 156,
+                        "Y": 2633,
+                        "height": 26
+                    },
+                    "probability": 0.9331848621368408,
+                    "geometry": {
+                        "X": 463,
+                        "width": 166,
+                        "Y": 2628,
+                        "height": 36
+                    },
+                    "text": ""
+                },
+                {
+                    "probability": 0.9736290574073792,
+                    "geometry": {
+                        "X": 150,
+                        "width": 113,
+                        "Y": 2835,
+                        "height": 71
+                    },
+                    "text": "",
+                    "target": ""
+                },
+                {
+                    "targetGeometry": {
+                        "X": 208,
+                        "width": 142,
+                        "Y": 2992,
+                        "height": 24
+                    },
+                    "probability": 0.7613157033920288,
+                    "geometry": {
+                        "X": 203,
+                        "width": 152,
+                        "Y": 2987,
+                        "height": 34
+                    },
+                    "text": ""
+                },
+                {
+                    "targetGeometry": {
+                        "X": 307,
+                        "width": 155,
+                        "Y": 3090,
+                        "height": 23
+                    },
+                    "probability": 0.7858519554138184,
+                    "geometry": {
+                        "X": 302,
+                        "width": 165,
+                        "Y": 3085,
+                        "height": 33
+                    },
+                    "text": ""
+                },
+                {
+                    "targetGeometry": {
+                        "X": 353,
+                        "width": 50,
+                        "Y": 3225,
+                        "height": 27
+                    },
+                    "probability": 0.9553827047348022,
+                    "geometry": {
+                        "X": 348,
+                        "width": 60,
+                        "Y": 3220,
+                        "height": 37
+                    },
+                    "text": ""
+                },
+                {
+                    "targetGeometry": {
+                        "X": 45,
+                        "width": 72,
+                        "Y": 3326,
+                        "height": 28
+                    },
+                    "probability": 0.9779340624809265,
+                    "geometry": {
+                        "X": 40,
+                        "width": 82,
+                        "Y": 3321,
+                        "height": 38
+                    },
+                    "text": ""
+                },
+                {
+                    "targetGeometry": {
+                        "X": 437,
+                        "width": 168,
+                        "Y": 3326,
+                        "height": 88
+                    },
+                    "probability": 0.9494967460632324,
+                    "geometry": {
+                        "X": 432,
+                        "width": 178,
+                        "Y": 3321,
+                        "height": 98
+                    },
+                    "text": ""
+                },
+                {
+                    "targetGeometry": {
+                        "X": 27,
+                        "width": 29,
+                        "Y": 3457,
+                        "height": 45
+                    },
+                    "probability": 0.758075475692749,
+                    "geometry": {
+                        "X": 22,
+                        "width": 39,
+                        "Y": 3452,
+                        "height": 55
+                    },
+                    "text": ""
+                },
+                {
+                    "probability": 0.9818214774131775,
+                    "geometry": {
+                        "X": 444,
+                        "width": 182,
+                        "Y": 3670,
+                        "height": 65
+                    },
+                    "text": "",
+                    "target": ""
+                },
+                {
+                    "targetGeometry": {
+                        "X": 425,
+                        "width": 95,
+                        "Y": 3802,
+                        "height": 23
+                    },
+                    "probability": 0.873767614364624,
+                    "geometry": {
+                        "X": 420,
+                        "width": 105,
+                        "Y": 3797,
+                        "height": 33
+                    },
+                    "text": ""
+                },
+                {
+                    "targetGeometry": {
+                        "X": 38,
+                        "width": 95,
+                        "Y": 3806,
+                        "height": 55
+                    },
+                    "probability": 0.9912103414535522,
+                    "geometry": {
+                        "X": 33,
+                        "width": 105,
+                        "Y": 3801,
+                        "height": 65
+                    },
+                    "text": ""
+                },
+                {
+                    "targetGeometry": {
+                        "X": 547,
+                        "width": 81,
+                        "Y": 3853,
+                        "height": 55
+                    },
+                    "probability": 0.9825032949447632,
+                    "geometry": {
+                        "X": 542,
+                        "width": 91,
+                        "Y": 3848,
+                        "height": 65
+                    },
+                    "text": ""
+                },
+                {
+                    "targetGeometry": {
+                        "X": 80,
+                        "width": 59,
+                        "Y": 4312,
+                        "height": 23
+                    },
+                    "probability": 0.9841683506965637,
+                    "geometry": {
+                        "X": 75,
+                        "width": 69,
+                        "Y": 4307,
+                        "height": 33
+                    },
+                    "text": ""
+                },
+                {
+                    "targetGeometry": {
+                        "X": 463,
+                        "width": 93,
+                        "Y": 5085,
+                        "height": 61
+                    },
+                    "probability": 0.9890958666801453,
+                    "geometry": {
+                        "X": 458,
+                        "width": 103,
+                        "Y": 5080,
+                        "height": 71
+                    },
+                    "text": ""
+                },
+                {
+                    "targetGeometry": {
+                        "X": 269,
+                        "width": 157,
+                        "Y": 5455,
+                        "height": 56
+                    },
+                    "probability": 0.9965051412582397,
+                    "geometry": {
+                        "X": 264,
+                        "width": 167,
+                        "Y": 5450,
+                        "height": 66
+                    },
+                    "text": ""
+                },
+                {
+                    "geometry": {
+                        "X": 515,
+                        "width": 107,
+                        "Y": 3733,
+                        "height": 46
+                    },
+                    "text": "",
+                    "target": ""
+                }
+            ]
+        },
+        "4d8b0b03ly1g3lxr1nexgj20i275yb2b.jpg": {
+            "boxes": [
+                {
+                    "targetGeometry": {
+                        "X": 125,
+                        "width": 146,
+                        "Y": 155,
+                        "height": 80
+                    },
+                    "probability": 0.9413127899169922,
+                    "geometry": {
+                        "X": 120,
+                        "width": 156,
+                        "Y": 150,
+                        "height": 90
+                    },
+                    "text": ""
+                },
+                {
+                    "targetGeometry": {
+                        "X": 417,
+                        "width": 121,
+                        "Y": 296,
+                        "height": 81
+                    },
+                    "probability": 0.9529927372932434,
+                    "geometry": {
+                        "X": 412,
+                        "width": 131,
+                        "Y": 291,
+                        "height": 91
+                    },
+                    "text": ""
+                },
+                {
+                    "targetGeometry": {
+                        "X": 369,
+                        "width": 120,
+                        "Y": 432,
+                        "height": 52
+                    },
+                    "probability": 0.9844188690185547,
+                    "geometry": {
+                        "X": 364,
+                        "width": 130,
+                        "Y": 427,
+                        "height": 62
+                    },
+                    "text": ""
+                },
+                {
+                    "targetGeometry": {
+                        "X": 95,
+                        "width": 107,
+                        "Y": 568,
+                        "height": 81
+                    },
+                    "probability": 0.9706911444664001,
+                    "geometry": {
+                        "X": 90,
+                        "width": 117,
+                        "Y": 563,
+                        "height": 91
+                    },
+                    "text": "",
+                    "target": ""
+                },
+                {
+                    "targetGeometry": {
+                        "X": 498,
+                        "width": 97,
+                        "Y": 763,
+                        "height": 80
+                    },
+                    "probability": 0.9392284154891968,
+                    "geometry": {
+                        "X": 493,
+                        "width": 107,
+                        "Y": 758,
+                        "height": 90
+                    },
+                    "text": ""
+                },
+                {
+                    "targetGeometry": {
+                        "X": 443,
+                        "width": 107,
+                        "Y": 957,
+                        "height": 24
+                    },
+                    "probability": 0.9427396655082703,
+                    "geometry": {
+                        "X": 438,
+                        "width": 117,
+                        "Y": 952,
+                        "height": 34
+                    },
+                    "text": ""
+                },
+                {
+                    "targetGeometry": {
+                        "X": 521,
+                        "width": 59,
+                        "Y": 1297,
+                        "height": 55
+                    },
+                    "probability": 0.9619664549827576,
+                    "geometry": {
+                        "X": 516,
+                        "width": 69,
+                        "Y": 1292,
+                        "height": 65
+                    },
+                    "text": ""
+                },
+                {
+                    "targetGeometry": {
+                        "X": 77,
+                        "width": 115,
+                        "Y": 1681,
+                        "height": 56
+                    },
+                    "probability": 0.9382766485214233,
+                    "geometry": {
+                        "X": 72,
+                        "width": 125,
+                        "Y": 1676,
+                        "height": 66
+                    },
+                    "text": ""
+                },
+                {
+                    "targetGeometry": {
+                        "X": 65,
+                        "width": 87,
+                        "Y": 4188,
+                        "height": 61
+                    },
+                    "probability": 0.9383501410484314,
+                    "geometry": {
+                        "X": 60,
+                        "width": 97,
+                        "Y": 4183,
+                        "height": 71
+                    },
+                    "text": ""
+                },
+                {
+                    "targetGeometry": {
+                        "X": 476,
+                        "width": 134,
+                        "Y": 4389,
+                        "height": 62
+                    },
+                    "probability": 0.9881311655044556,
+                    "geometry": {
+                        "X": 471,
+                        "width": 144,
+                        "Y": 4384,
+                        "height": 72
+                    },
+                    "text": ""
+                },
+                {
+                    "targetGeometry": {
+                        "X": 121,
+                        "width": 122,
+                        "Y": 4762,
+                        "height": 100
+                    },
+                    "probability": 0.9752806425094604,
+                    "geometry": {
+                        "X": 116,
+                        "width": 132,
+                        "Y": 4757,
+                        "height": 110
+                    },
+                    "text": ""
+                },
+                {
+                    "targetGeometry": {
+                        "X": 37,
+                        "width": 121,
+                        "Y": 4993,
+                        "height": 52
+                    },
+                    "probability": 0.9940088987350464,
+                    "geometry": {
+                        "X": 32,
+                        "width": 131,
+                        "Y": 4988,
+                        "height": 62
+                    },
+                    "text": ""
+                },
+                {
+                    "targetGeometry": {
+                        "X": 458,
+                        "width": 97,
+                        "Y": 4994,
+                        "height": 81
+                    },
+                    "probability": 0.9250833988189697,
+                    "geometry": {
+                        "X": 453,
+                        "width": 107,
+                        "Y": 4989,
+                        "height": 91
+                    },
+                    "text": ""
+                },
+                {
+                    "targetGeometry": {
+                        "X": 497,
+                        "width": 121,
+                        "Y": 5135,
+                        "height": 53
+                    },
+                    "probability": 0.9733616709709167,
+                    "geometry": {
+                        "X": 492,
+                        "width": 131,
+                        "Y": 5130,
+                        "height": 63
+                    },
+                    "text": ""
+                },
+                {
+                    "targetGeometry": {
+                        "X": 421,
+                        "width": 129,
+                        "Y": 5398,
+                        "height": 81
+                    },
+                    "probability": 0.942858874797821,
+                    "geometry": {
+                        "X": 416,
+                        "width": 139,
+                        "Y": 5393,
+                        "height": 91
+                    },
+                    "text": ""
+                },
+                {
+                    "targetGeometry": {
+                        "X": 37,
+                        "width": 145,
+                        "Y": 5584,
+                        "height": 53
+                    },
+                    "probability": 0.9899925589561462,
+                    "geometry": {
+                        "X": 32,
+                        "width": 155,
+                        "Y": 5579,
+                        "height": 63
+                    },
+                    "text": ""
+                },
+                {
+                    "targetGeometry": {
+                        "X": 480,
+                        "width": 144,
+                        "Y": 5792,
+                        "height": 24
+                    },
+                    "probability": 0.9532566666603088,
+                    "geometry": {
+                        "X": 475,
+                        "width": 154,
+                        "Y": 5787,
+                        "height": 34
+                    },
+                    "text": ""
+                },
+                {
+                    "targetGeometry": {
+                        "X": 431,
+                        "width": 167,
+                        "Y": 5862,
+                        "height": 52
+                    },
+                    "probability": 0.9801345467567444,
+                    "geometry": {
+                        "X": 426,
+                        "width": 177,
+                        "Y": 5857,
+                        "height": 62
+                    },
+                    "text": ""
+                },
+                {
+                    "targetGeometry": {
+                        "X": 128,
+                        "width": 80,
+                        "Y": 6016,
+                        "height": 24
+                    },
+                    "probability": 0.9805372357368469,
+                    "geometry": {
+                        "X": 123,
+                        "width": 90,
+                        "Y": 6011,
+                        "height": 34
+                    },
+                    "text": ""
+                },
+                {
+                    "targetGeometry": {
+                        "X": 193,
+                        "width": 97,
+                        "Y": 6071,
+                        "height": 52
+                    },
+                    "probability": 0.9882166981697083,
+                    "geometry": {
+                        "X": 188,
+                        "width": 107,
+                        "Y": 6066,
+                        "height": 62
+                    },
+                    "text": ""
+                },
+                {
+                    "targetGeometry": {
+                        "X": 117,
+                        "width": 22,
+                        "Y": 6223,
+                        "height": 18
+                    },
+                    "probability": 0.6562749147415161,
+                    "geometry": {
+                        "X": 112,
+                        "width": 32,
+                        "Y": 6218,
+                        "height": 28
+                    },
+                    "text": ""
+                },
+                {
+                    "targetGeometry": {
+                        "X": 334,
+                        "width": 104,
+                        "Y": 6517,
+                        "height": 58
+                    },
+                    "probability": 0.8842248320579529,
+                    "geometry": {
+                        "X": 329,
+                        "width": 114,
+                        "Y": 6512,
+                        "height": 68
+                    },
+                    "text": ""
+                },
+                {
+                    "targetGeometry": {
+                        "X": 82,
+                        "width": 58,
+                        "Y": 6545,
+                        "height": 51
+                    },
+                    "probability": 0.905694842338562,
+                    "geometry": {
+                        "X": 77,
+                        "width": 68,
+                        "Y": 6540,
+                        "height": 61
+                    },
+                    "text": ""
+                },
+                {
+                    "targetGeometry": {
+                        "X": 425,
+                        "width": 102,
+                        "Y": 6716,
+                        "height": 40
+                    },
+                    "probability": 0.7143138647079468,
+                    "geometry": {
+                        "X": 420,
+                        "width": 112,
+                        "Y": 6711,
+                        "height": 50
+                    },
+                    "text": ""
+                },
+                {
+                    "targetGeometry": {
+                        "X": 480,
+                        "width": 104,
+                        "Y": 6762,
+                        "height": 56
+                    },
+                    "probability": 0.9371920228004456,
+                    "geometry": {
+                        "X": 475,
+                        "width": 114,
+                        "Y": 6757,
+                        "height": 66
+                    },
+                    "text": ""
+                },
+                {
+                    "targetGeometry": {
+                        "X": 253,
+                        "width": 45,
+                        "Y": 7072,
+                        "height": 19
+                    },
+                    "probability": 0.9681363105773926,
+                    "geometry": {
+                        "X": 248,
+                        "width": 55,
+                        "Y": 7067,
+                        "height": 29
+                    },
+                    "text": ""
+                },
+                {
+                    "targetGeometry": {
+                        "X": 521,
+                        "width": 56,
+                        "Y": 7462,
+                        "height": 52
+                    },
+                    "probability": 0.9610163569450378,
+                    "geometry": {
+                        "X": 516,
+                        "width": 66,
+                        "Y": 7457,
+                        "height": 62
+                    },
+                    "text": ""
+                },
+                {
+                    "targetGeometry": {
+                        "X": 92,
+                        "width": 80,
+                        "Y": 7469,
+                        "height": 53
+                    },
+                    "probability": 0.9541550874710083,
+                    "geometry": {
+                        "X": 87,
+                        "width": 90,
+                        "Y": 7464,
+                        "height": 63
+                    },
+                    "text": ""
+                },
+                {
+                    "probability": 0.9868114590644836,
+                    "geometry": {
+                        "X": 411,
+                        "width": 147,
+                        "Y": 8043,
+                        "height": 59
+                    },
+                    "text": "",
+                    "target": ""
+                },
+                {
+                    "targetGeometry": {
+                        "X": 40,
+                        "width": 121,
+                        "Y": 8215,
+                        "height": 51
+                    },
+                    "probability": 0.9920397996902466,
+                    "geometry": {
+                        "X": 35,
+                        "width": 131,
+                        "Y": 8210,
+                        "height": 61
+                    },
+                    "text": ""
+                },
+                {
+                    "probability": 0.9000239968299866,
+                    "geometry": {
+                        "X": 474,
+                        "width": 151,
+                        "Y": 8214,
+                        "height": 45
+                    },
+                    "text": "",
+                    "target": ""
+                },
+                {
+                    "probability": 0.7456238865852356,
+                    "geometry": {
+                        "X": 531,
+                        "width": 98,
+                        "Y": 8262,
+                        "height": 71
+                    },
+                    "text": "",
+                    "target": ""
+                },
+                {
+                    "targetGeometry": {
+                        "X": 66,
+                        "width": 109,
+                        "Y": 8701,
+                        "height": 72
+                    },
+                    "probability": 0.9490551948547363,
+                    "geometry": {
+                        "X": 61,
+                        "width": 119,
+                        "Y": 8696,
+                        "height": 82
+                    },
+                    "text": ""
+                },
+                {
+                    "targetGeometry": {
+                        "X": 377,
+                        "width": 142,
+                        "Y": 8754,
+                        "height": 47
+                    },
+                    "probability": 0.9950563907623291,
+                    "geometry": {
+                        "X": 372,
+                        "width": 152,
+                        "Y": 8749,
+                        "height": 57
+                    },
+                    "text": ""
+                },
+                {
+                    "targetGeometry": {
+                        "X": 227,
+                        "width": 21,
+                        "Y": 8765,
+                        "height": 20
+                    },
+                    "probability": 0.9408701062202454,
+                    "geometry": {
+                        "X": 222,
+                        "width": 31,
+                        "Y": 8760,
+                        "height": 30
+                    },
+                    "text": ""
+                },
+                {
+                    "probability": 0.9406156539916992,
+                    "geometry": {
+                        "X": 451,
+                        "width": 150,
+                        "Y": 8865,
+                        "height": 87
+                    },
+                    "text": "",
+                    "target": ""
+                },
+                {
+                    "targetGeometry": {
+                        "X": 438,
+                        "width": 68,
+                        "Y": 9070,
+                        "height": 27
+                    },
+                    "probability": 0.9374644160270691,
+                    "geometry": {
+                        "X": 433,
+                        "width": 78,
+                        "Y": 9065,
+                        "height": 37
+                    },
+                    "text": ""
+                },
+                {
+                    "targetGeometry": {
+                        "X": 469,
+                        "width": 88,
+                        "Y": 9121,
+                        "height": 72
+                    },
+                    "probability": 0.9456545114517212,
+                    "geometry": {
+                        "X": 464,
+                        "width": 98,
+                        "Y": 9116,
+                        "height": 82
+                    },
+                    "text": ""
+                },
+                {
+                    "targetGeometry": {
+                        "X": 107,
+                        "width": 24,
+                        "Y": 7076,
+                        "height": 20
+                    },
+                    "probability": 0.7029899954795837,
+                    "geometry": {
+                        "X": 102,
+                        "width": 56,
+                        "Y": 7059,
+                        "height": 42
+                    },
+                    "text": ""
+                },
+                {
+                    "geometry": {
+                        "X": 460,
+                        "width": 159,
+                        "Y": 8088,
+                        "height": 55
+                    },
+                    "text": "",
+                    "target": ""
+                },
+                {
+                    "geometry": {
+                        "X": 223,
+                        "width": 100,
+                        "Y": 8199,
+                        "height": 50
+                    },
+                    "text": "",
+                    "target": ""
+                }
+            ]
+        },
+        "4d8b0b03ly1g69v01cl6aj20i221sqlp.jpg": {
+            "boxes": [
+                {
+                    "targetGeometry": {
+                        "X": 16,
+                        "width": 74,
+                        "Y": 24,
+                        "height": 36
+                    },
+                    "probability": 0.8991169333457947,
+                    "geometry": {
+                        "X": 11,
+                        "width": 84,
+                        "Y": 19,
+                        "height": 46
+                    },
+                    "text": ""
+                },
+                {
+                    "targetGeometry": {
+                        "X": 497,
+                        "width": 119,
+                        "Y": 1092,
+                        "height": 55
+                    },
+                    "probability": 0.9868037104606628,
+                    "geometry": {
+                        "X": 492,
+                        "width": 129,
+                        "Y": 1087,
+                        "height": 65
+                    },
+                    "text": ""
+                },
+                {
+                    "targetGeometry": {
+                        "X": 34,
+                        "width": 223,
+                        "Y": 1096,
+                        "height": 57
+                    },
+                    "probability": 0.8521969318389893,
+                    "geometry": {
+                        "X": 29,
+                        "width": 233,
+                        "Y": 1091,
+                        "height": 67
+                    },
+                    "text": ""
+                },
+                {
+                    "targetGeometry": {
+                        "X": 40,
+                        "width": 143,
+                        "Y": 1598,
+                        "height": 56
+                    },
+                    "probability": 0.9762037992477417,
+                    "geometry": {
+                        "X": 35,
+                        "width": 153,
+                        "Y": 1593,
+                        "height": 66
+                    },
+                    "text": ""
+                },
+                {
+                    "targetGeometry": {
+                        "X": 532,
+                        "width": 81,
+                        "Y": 2572,
+                        "height": 23
+                    },
+                    "probability": 0.9854609370231628,
+                    "geometry": {
+                        "X": 527,
+                        "width": 91,
+                        "Y": 2567,
+                        "height": 33
+                    },
+                    "text": ""
+                },
+                {
+                    "geometry": {
+                        "X": 500,
+                        "width": 33,
+                        "Y": 601,
+                        "height": 31
+                    },
+                    "text": "",
+                    "target": ""
+                },
+                {
+                    "geometry": {
+                        "X": 478,
+                        "width": 49,
+                        "Y": 673,
+                        "height": 36
+                    },
+                    "text": "",
+                    "target": ""
+                },
+                {
+                    "geometry": {
+                        "X": 530,
+                        "width": 32,
+                        "Y": 749,
+                        "height": 33
+                    },
+                    "text": "",
+                    "target": ""
+                }
+            ]
+        },
+        "4d8b0b03ly1g6j42v9udlj20i23d37wh.jpg": {
+            "boxes": [
+                {
+                    "probability": 0.9660544395446777,
+                    "geometry": {
+                        "X": 17,
+                        "width": 309,
+                        "Y": 3796,
+                        "height": 40
+                    },
+                    "text": "",
+                    "target": ""
+                },
+                {
+                    "probability": 0.8939383029937744,
+                    "geometry": {
+                        "X": 30,
+                        "width": 153,
+                        "Y": 1422,
+                        "height": 32
+                    },
+                    "text": ""
+                },
+                {
+                    "probability": 0.9460516571998596,
+                    "geometry": {
+                        "X": 30,
+                        "width": 155,
+                        "Y": 1849,
+                        "height": 65
+                    },
+                    "text": ""
+                },
+                {
+                    "probability": 0.8434032797813416,
+                    "geometry": {
+                        "X": 49,
+                        "width": 214,
+                        "Y": 96,
+                        "height": 33
+                    },
+                    "text": ""
+                },
+                {
+                    "probability": 0.8853534460067749,
+                    "geometry": {
+                        "X": 54,
+                        "width": 188,
+                        "Y": 521,
+                        "height": 33
+                    },
+                    "text": ""
+                },
+                {
+                    "probability": 0.9879250526428223,
+                    "geometry": {
+                        "X": 62,
+                        "width": 196,
+                        "Y": 976,
+                        "height": 34
+                    },
+                    "text": "",
+                    "target": ""
+                },
+                {
+                    "probability": 0.736682116985321,
+                    "geometry": {
+                        "X": 151,
+                        "width": 73,
+                        "Y": 4038,
+                        "height": 42
+                    },
+                    "text": "",
+                    "target": ""
+                },
+                {
+                    "probability": 0.8567814230918884,
+                    "geometry": {
+                        "X": 152,
+                        "width": 37,
+                        "Y": 2996,
+                        "height": 66
+                    },
+                    "text": ""
+                },
+                {
+                    "probability": 0.8782399296760559,
+                    "geometry": {
+                        "X": 168,
+                        "width": 37,
+                        "Y": 2496,
+                        "height": 66
+                    },
+                    "text": ""
+                },
+                {
+                    "probability": 0.995715320110321,
+                    "geometry": {
+                        "X": 193,
+                        "width": 67,
+                        "Y": 1728,
+                        "height": 34
+                    },
+                    "text": ""
+                },
+                {
+                    "probability": 0.9879783391952515,
+                    "geometry": {
+                        "X": 212,
+                        "width": 139,
+                        "Y": 1890,
+                        "height": 66
+                    },
+                    "text": ""
+                },
+                {
+                    "probability": 0.9786736369132996,
+                    "geometry": {
+                        "X": 268,
+                        "width": 91,
+                        "Y": 3834,
+                        "height": 66
+                    },
+                    "text": ""
+                },
+                {
+                    "probability": 0.8366960287094116,
+                    "geometry": {
+                        "X": 374,
+                        "width": 115,
+                        "Y": 523,
+                        "height": 32
+                    },
+                    "text": ""
+                },
+                {
+                    "probability": 0.995360791683197,
+                    "geometry": {
+                        "X": 402,
+                        "width": 73,
+                        "Y": 2200,
+                        "height": 34
+                    },
+                    "text": ""
+                },
+                {
+                    "probability": 0.9281085729598999,
+                    "geometry": {
+                        "X": 460,
+                        "width": 118,
+                        "Y": 3851,
+                        "height": 97
+                    },
+                    "text": ""
+                },
+                {
+                    "probability": 0.8992284536361694,
+                    "geometry": {
+                        "X": 480,
+                        "width": 152,
+                        "Y": 1420,
+                        "height": 33
+                    },
+                    "text": ""
+                },
+                {
+                    "probability": 0.8397462964057922,
+                    "geometry": {
+                        "X": 521,
+                        "width": 47,
+                        "Y": 3504,
+                        "height": 88
+                    },
+                    "text": ""
+                },
+                {
+                    "geometry": {
+                        "X": 35,
+                        "width": 100,
+                        "Y": 3836,
+                        "height": 50
+                    },
+                    "text": "",
+                    "target": ""
+                }
+            ]
+        },
+        "4d8b0b03ly1g7grlrclcaj20i21l8ass.jpg": {
+            "boxes": [
+                {
+                    "targetGeometry": {
+                        "X": 25,
+                        "width": 167,
+                        "Y": 25,
+                        "height": 36
+                    },
+                    "probability": 0.9085595011711121,
+                    "geometry": {
+                        "X": 20,
+                        "width": 177,
+                        "Y": 20,
+                        "height": 46
+                    },
+                    "text": ""
+                },
+                {
+                    "targetGeometry": {
+                        "X": 42,
+                        "width": 48,
+                        "Y": 77,
+                        "height": 23
+                    },
+                    "probability": 0.9872311949729919,
+                    "geometry": {
+                        "X": 37,
+                        "width": 58,
+                        "Y": 72,
+                        "height": 33
+                    },
+                    "text": ""
+                },
+                {
+                    "targetGeometry": {
+                        "X": 146,
+                        "width": 42,
+                        "Y": 283,
+                        "height": 30
+                    },
+                    "probability": 0.8599416613578796,
+                    "geometry": {
+                        "X": 141,
+                        "width": 52,
+                        "Y": 278,
+                        "height": 40
+                    },
+                    "text": ""
+                },
+                {
+                    "targetGeometry": {
+                        "X": 115,
+                        "width": 33,
+                        "Y": 1077,
+                        "height": 37
+                    },
+                    "probability": 0.8582351207733154,
+                    "geometry": {
+                        "X": 110,
+                        "width": 43,
+                        "Y": 1072,
+                        "height": 47
+                    },
+                    "text": ""
+                },
+                {
+                    "targetGeometry": {
+                        "X": 393,
+                        "width": 30,
+                        "Y": 1564,
+                        "height": 23
+                    },
+                    "probability": 0.9857585430145264,
+                    "geometry": {
+                        "X": 388,
+                        "width": 40,
+                        "Y": 1559,
+                        "height": 33
+                    },
+                    "text": ""
+                },
+                {
+                    "targetGeometry": {
+                        "X": 276,
+                        "width": 55,
+                        "Y": 1632,
+                        "height": 56
+                    },
+                    "probability": 0.7726075649261475,
+                    "geometry": {
+                        "X": 271,
+                        "width": 65,
+                        "Y": 1627,
+                        "height": 66
+                    },
+                    "text": ""
+                },
+                {
+                    "targetGeometry": {
+                        "X": 424,
+                        "width": 71,
+                        "Y": 1802,
+                        "height": 23
+                    },
+                    "probability": 0.9843594431877136,
+                    "geometry": {
+                        "X": 419,
+                        "width": 81,
+                        "Y": 1797,
+                        "height": 33
+                    },
+                    "text": ""
+                }
+            ]
+        }
+    },
+    "UISettings": {
+        "autosave": true,
+        "chinesePunc": false,
+        "dividerPosition": [
+            0.03775510204081633,
+            0.7275510204081632
+        ],
+        "translateAfterOCR": false,
+        "vertical": false,
+        "percent": 100,
+        "autoClean": true,
+        "removeSpaces": false,
+        "precisionMode": true,
+        "OCRAfterSelection": false,
+        "autoCapital": false,
+        "pannable": false,
+        "opacity": 100
+    },
+    "terms": {},
+    "dirPath": "./",
+    "previousOCR": {
+        "engineName": "ocrspace",
+        "lang": "英语"
+    }
+}
