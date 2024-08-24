@@ -11,7 +11,8 @@ Trained models using YOLOv8:
 
 Trained models using Scaled YOLOv4:
 
-[Japanese manga model](https://github.com/xulihang/ImageTrans-docs/issues/135)
+* [Japanese manga model](https://github.com/xulihang/ImageTrans-docs/issues/135)
+* Comics model trained on eBDtheque: [download link](https://github.com/xulihang/ObjectDetector/releases/download/models/yolo_darknet.zip)
 
 ## Use the Models in ImageTrans
 
