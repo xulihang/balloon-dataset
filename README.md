@@ -20,6 +20,8 @@ Trained models using Scaled YOLOv4:
 2. Enable offline balloon detection in Preferences.
 3. Use the balloon detection operation in ImageTrans to detect balloons.
 
+You can also make a folder under `models` under ImageTrans's root and put the model files in it. Then, you can select which model to use in the project settings.
+
 ## Blog
 
 [How to Train a YOLOv8 Object Detection Model](https://www.basiccat.org/how-to-train-yolov8-object-detection-model/)
