@@ -22,6 +22,8 @@ Trained models using Scaled YOLOv4:
 
 You can also make a folder under `models` under ImageTrans's root and put the model files in it. Then, you can select which model to use in the project settings.
 
+PS: if you have the model in `.pt` format and would like to use GPU, you can use this server to run the inference: https://github.com/xulihang/YOLO-Server
+
 ## Blog
 
 [How to Train a YOLOv8 Object Detection Model](https://www.basiccat.org/how-to-train-yolov8-object-detection-model/)
