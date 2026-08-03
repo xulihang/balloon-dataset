@@ -2,6 +2,10 @@
 
 A collection of comics for training a balloon detection model
 
+Trained models using YOLOv26:
+
+Manga balloon and panel detection model (exported from [manga-panel-detector-yolo26n](https://huggingface.co/leoxs22/manga-panel-detector-yolo26n)): [download link](https://github.com/xulihang/balloon-dataset/releases/download/models/manga-panel.zip)
+
 Trained models using YOLOv8:
 
 * Chinese webtoon model trained on SQ: [download link](https://github.com/xulihang/balloon-dataset/releases/download/models/chinese_webtoon.zip)
