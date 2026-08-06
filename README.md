@@ -11,11 +11,11 @@ Trained models using YOLOv8:
 * Chinese webtoon model trained on SQ: [download link](https://github.com/xulihang/balloon-dataset/releases/download/models/chinese_webtoon.zip)
 * Korean webtoon model: [download link](https://github.com/xulihang/balloon-dataset/releases/download/models/korean_webtoon.zip)
 * Model trained on 8k Manga, Webtoon, Manhua and Western Comic style Images by [comic-translate](https://github.com/ogkalu2/comic-translate): [download link](https://github.com/xulihang/balloon-dataset/releases/download/models/comic-speech-bubble.zip)
-* [Japanese manga and Artist CG model](https://github.com/xulihang/ImageTrans-docs/issues/711), [download link](https://github.com/xulihang/balloon-dataset/releases/download/models/japanese-manga.zip)
+* [Japanese manga and Artist CG model](https://github.com/xulihang/ImageTrans-docs/issues/711): [download link](https://github.com/xulihang/balloon-dataset/releases/download/models/japanese-manga.zip)
 
 Trained models using RTDETR:
 
-* [Japanese manga and Artist CG model](https://github.com/xulihang/ImageTrans-docs/issues/1069), [download link](https://github.com/xulihang/balloon-dataset/releases/download/models/rtdetr.zip)
+* [Japanese manga and Artist CG model](https://github.com/xulihang/ImageTrans-docs/issues/1069): [download link](https://github.com/xulihang/balloon-dataset/releases/download/models/rtdetr.zip)
 
   
 Trained models using Scaled YOLOv4:
