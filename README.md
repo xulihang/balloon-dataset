@@ -17,7 +17,10 @@ Trained models using RFDETR:
 
 * [Japanese manga and Artist CG model](https://github.com/xulihang/ImageTrans-docs/issues/1069): [download link](https://github.com/xulihang/balloon-dataset/releases/download/models/rfdetr.zip)
 
-  
+Trained models using RFDETR-Seg:
+
+* [koharu-layout-rfdetr-seg-2xl-1152](https://hf-mirror.com/mayocream/koharu-layout-rfdetr-seg-2xl-1152/tree/main): [download link](https://github.com/xulihang/balloon-dataset/releases/download/models/manga-with-layout.zip) It can detect text, panels and balloons. It can generate the mask of text as well.
+
 Trained models using Scaled YOLOv4:
 
 * [Japanese manga model](https://github.com/xulihang/ImageTrans-docs/issues/135)
@@ -33,6 +36,12 @@ You can also make a folder under `models` under ImageTrans's root and put the mo
 
 PS: if you have the model in `.pt` format and would like to use GPU, you can use this server to run the inference: https://github.com/xulihang/YOLO-Server
 
+## Other Models
+
+* PPDocLayout: <https://github.com/xulihang/PP_DocLayout_ONNX> It can detect text and document layout, and restore the reading order.
+* PPOCRv6 for manga: <https://huggingface.co/Kellenok/PP-OCRv6_manga> [download link](https://github.com/xulihang/balloon-dataset/releases/download/models/PPOCRv6-manga-det.zip)
+
+   
 ## Blog
 
 [How to Train a YOLOv8 Object Detection Model](https://www.basiccat.org/how-to-train-yolov8-object-detection-model/)
