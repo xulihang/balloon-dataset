@@ -12,10 +12,11 @@ Trained models using YOLOv8:
 * Korean webtoon model: [download link](https://github.com/xulihang/balloon-dataset/releases/download/models/korean_webtoon.zip)
 * Model trained on 8k Manga, Webtoon, Manhua and Western Comic style Images by [comic-translate](https://github.com/ogkalu2/comic-translate): [download link](https://github.com/xulihang/balloon-dataset/releases/download/models/comic-speech-bubble.zip)
 * [Japanese manga and Artist CG model](https://github.com/xulihang/ImageTrans-docs/issues/711): [download link](https://github.com/xulihang/balloon-dataset/releases/download/models/japanese-manga.zip)
+* * [Japanese manga and Artist CG model (single line mode)](https://github.com/xulihang/ImageTrans-docs/issues/711): [download link](https://github.com/xulihang/balloon-dataset/releases/download/models/japanese-lines.zip)
 
 Trained models using RFDETR:
 
-* [Japanese manga and Artist CG model](https://github.com/xulihang/ImageTrans-docs/issues/1069): [download link](https://github.com/xulihang/balloon-dataset/releases/download/models/rfdetr.zip)
+* [Japanese manga and Artist CG model (single line mode)](https://github.com/xulihang/ImageTrans-docs/issues/1069): [download link](https://github.com/xulihang/balloon-dataset/releases/download/models/rfdetr.zip)
 * [koharu-layout-rfdetr-seg-2xl-1152](https://hf-mirror.com/mayocream/koharu-layout-rfdetr-seg-2xl-1152/tree/main): [download link](https://github.com/xulihang/balloon-dataset/releases/download/models/manga-with-layout.zip) It can detect text, panels and balloons. It can generate the mask of text as well.
 * [koharu-layout-rfdetr](https://hf-mirror.com/DevilishDaoSaint/koharu-layout-rfdetr): [download link](https://github.com/xulihang/balloon-dataset/releases/download/models/manga-with-layout-768px.zip) 768p lite version of the koharu layout rfdetr model. It can detect text, panels and balloons. It cannot generate the mask of text. 5 times faster on CPU.
 
