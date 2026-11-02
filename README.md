@@ -16,9 +16,6 @@ Trained models using YOLOv8:
 Trained models using RFDETR:
 
 * [Japanese manga and Artist CG model](https://github.com/xulihang/ImageTrans-docs/issues/1069): [download link](https://github.com/xulihang/balloon-dataset/releases/download/models/rfdetr.zip)
-
-Trained models using RFDETR-Seg:
-
 * [koharu-layout-rfdetr-seg-2xl-1152](https://hf-mirror.com/mayocream/koharu-layout-rfdetr-seg-2xl-1152/tree/main): [download link](https://github.com/xulihang/balloon-dataset/releases/download/models/manga-with-layout.zip) It can detect text, panels and balloons. It can generate the mask of text as well.
 * [koharu-layout-rfdetr](https://hf-mirror.com/DevilishDaoSaint/koharu-layout-rfdetr): [download link](https://github.com/xulihang/balloon-dataset/releases/download/models/manga-with-layout-768px.zip) 768p lite version of the koharu layout rfdetr model. It can detect text, panels and balloons. It cannot generate the mask of text. 5 times faster on CPU.
 
