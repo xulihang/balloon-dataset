@@ -41,7 +41,12 @@ PS: if you have the model in `.pt` format and would like to use GPU, you can use
 * PPDocLayout: <https://github.com/xulihang/PP_DocLayout_ONNX> It can detect text and document layout, and restore the reading order.
 * PPOCRv6 for manga: <https://huggingface.co/Kellenok/PP-OCRv6_manga> [download link](https://github.com/xulihang/balloon-dataset/releases/download/models/PPOCRv6-manga-det.zip)
 
-   
+## Recommended Japanese Manga Models
+
+The default manga models equipped in ImageTrans can translate quickly, but are not very accurate.
+
+For accurate manga translation, you can use the `koharu-layout-rfdetr-seg-2xl-1152` model along with baberuOCR, which can detect sound effect words.
+
 ## Blog
 
 [How to Train a YOLOv8 Object Detection Model](https://www.basiccat.org/how-to-train-yolov8-object-detection-model/)
