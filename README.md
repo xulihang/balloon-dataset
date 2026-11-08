@@ -45,7 +45,7 @@ PS: if you have the model in `.pt` format and would like to use GPU, you can use
 
 The default manga models equipped in ImageTrans can translate quickly, but are not very accurate.
 
-For accurate manga translation, you can use the `koharu-layout-rfdetr-seg-2xl-1152` model along with baberuOCR, which can detect sound effect words.
+For accurate manga translation, you can use the `koharu-layout-rfdetr-seg-2xl-1152` model along with [baberuOCR](https://github.com/xulihang/ImageTrans_plugins/tree/master/baberuOCR), which can detect sound effect words.
 
 ## Blog
 
